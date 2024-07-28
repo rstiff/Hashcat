@@ -22,5 +22,5 @@ Topics being covered
 
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fhashcat&psig=AOvVaw3QxX-NI-rWiBLdrU3IZWUA&ust=1722280387320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDMw8m4yocDFQAAAAAdAAAAABA9![image](https://github.com/user-attachments/assets/f2fa1c93-67c1-4a36-8034-ac0aa7139bae)
+
 
