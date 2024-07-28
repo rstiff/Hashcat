@@ -22,4 +22,4 @@ Topics being covered
 
 
 
-(https://github.com/user-attachments/assets/37846809-4df9-456f-bc58-416cdd9475ad)
+https://media.imgcdn.org/repo/2023/03/hashcat/hashcat-logo.png
