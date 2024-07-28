@@ -22,4 +22,4 @@ Topics being covered
 
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ffilecr.com%2Fwindows%2Fhashcat%2F&psig=AOvVaw3QxX-NI-rWiBLdrU3IZWUA&ust=1722280387320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDMw8m4yocDFQAAAAAdAAAAABAX![image](https://github.com/user-attachments/assets/37846809-4df9-456f-bc58-416cdd9475ad)
+(https://github.com/user-attachments/assets/37846809-4df9-456f-bc58-416cdd9475ad)
