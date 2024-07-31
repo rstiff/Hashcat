@@ -69,22 +69,11 @@ Hash key % table size
 
 Example table
 
-6 % 4 = 2
-
-Table size = 4
-index = 3
+![image](https://github.com/user-attachments/assets/9a496983-0f6d-4913-889c-d7340dcfaaba)
 
 
 
-|------------|
-|  0 index   |   
-|------------|       
-|  1 index   |       
-|------------|
-|   2 index  | -> <6> is stored at index 2
-|------------|
-|  3 index   |     
-|------------|
+
 
 
 
