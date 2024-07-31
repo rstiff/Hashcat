@@ -18,7 +18,7 @@ Topics being covered
 1. Whats Hashcat
 2. whats password hashing
 3. what is a hash function
-4. what are md5 hashes/sha56 hashes
+4. what are md5 hashes/sha1 hashes
 5. How to do a md5/sha1 sttack with hashcat
 6. what salting is
 7. summary
