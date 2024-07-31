@@ -21,7 +21,8 @@ Topics being covered
 4. Mitigation steps to protect yourself
 
 
-![image](https://github.com/user-attachments/assets/15db5d12-0eb1-4b7e-8b37-6fbff8ebc7af)
+![image](https://github.com/user-attachments/assets/15d094a0-d7c5-462a-9e5e-fbe27db551fe)
+
 
 
 
