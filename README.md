@@ -10,7 +10,7 @@ Name: Rory Stiff
 
 Decscription: Hashcat is a versatile hacking tool that assists brute force attacks 
 by condcuting them with hash values of passwords. I will be showing md5 hashing and
-sha56 hashing password techniques with hashcat and how to protect youurself from these attacks. 
+sha1 hashing password techniques with hashcat and how to protect youurself from these attacks. 
 
 
 Topics being covered
