@@ -20,7 +20,7 @@ Topics being covered
 3. what is a hash function
 4. what are md5 hashes/sha1 hashes
 5. How to do a md5/sha1 sttack with hashcat
-6. what salting is
+6. How to defend against hashcat
 7. summary
 
 
@@ -114,6 +114,60 @@ result of dictionary attack on md5 hash algrithim
 sha1 hash
 
 
+command
+
+
+hashcat -m 100 -a 0 sha1.txt rockyou.txt
+
+
+
+The command above is a sha1 hash command. The mode 100 specifies the
+hash wich is sha1 hash function. 
+
+
+result of sha1 hash
+
+
+
+combinator attack:
+
+
+
+
+
+
+
+
+Mask attack:
+
+
+
+
+
+How to defend against hashcat
+
+
+1. stronger passwords
+2. add salts to password hashes(salting)
+
+To crack a salted password, the attacker should know both the hash and salted values. Thats why salting makes it harder for the attacker to crack the password.
+
+Salting hash function Example:
+
+
+![image](https://github.com/user-attachments/assets/2f7d3742-a57b-4d10-be3b-f67f7504dc73)
+
+3. dynamic salting
+
+
+
+summary
+
+
+
+
+
+   
 
 
 
