@@ -164,7 +164,7 @@ Salting hash function Example:
 summary
 
 
-
+Hashcat is a very powerful tool that helps to crack password hashes. We also learned about mathamatical hash functions and how you can add salts to the hash functions. Lastly I showed you all how to crack diffrent hashing modes on hashcat.
 
 
    
