@@ -21,7 +21,15 @@ Topics being covered
 4. Mitigation steps to protect yourself
 
 
-https://www.dafont.com/forum/attach/orig/7/3/736455.png?1![image](https://github.com/user-attachments/assets/5b4378c8-eed3-409f-8b1c-fb8d227666b6)
+![image](https://github.com/user-attachments/assets/15db5d12-0eb1-4b7e-8b37-6fbff8ebc7af)
+
+
+
+what is hashcat?
+
+
+
+
 
 
 
