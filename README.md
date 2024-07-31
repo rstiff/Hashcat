@@ -89,6 +89,38 @@ sha1 hash: b2e98ad6f6eb8508dd6a14cfa704bad7f05f6fb1
 
 How to do a md5/sha1 sttack with hashcat
 
+Note: You will need to find or download a common password list
+
+
+Dictionary attacks:
+
+md5 hash 
+
+command
+
+$ hashcat -m 0 -a 0 md5.txt passwordlist.txt
+
+
+The command above is a dictionary attack using the hashing algrithim md5. The 0 specifies the md5 hash mode. For the flag I am using -a
+
+
+result of dictionary attack on md5 hash algrithim
+
+
+
+![image](https://github.com/user-attachments/assets/fba4a59d-639e-465e-bb3b-c73514d0b3ec)
+
+
+sha1 hash
+
+
+
+
+
+
+
+
+
 
 
 
