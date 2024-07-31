@@ -17,9 +17,10 @@ Topics being covered
 
 1. Whats Hashcat
 2. whats password hashing
-3. what are md5 hashes/sha56 hashes
-4. How to do a md5/sh56 sttack with hashcat
-5. Mitigation steps to protect yourself
+3. what is a hash function
+4. what are md5 hashes/sha56 hashes
+5. How to do a md5/sh56 sttack with hashcat
+6. Mitigation steps to protect yourself
 
 
 ![image](https://github.com/user-attachments/assets/15d094a0-d7c5-462a-9e5e-fbe27db551fe)
@@ -45,10 +46,45 @@ what is password hashing?
 
 
 
+Hashing is a proccess that converts an alphanumeric string into a fixed-size string by using a hash function. This may be fimiliar as in the advanced data structure courses when they teach dictionarys we often see this when disscusing them.
+
+
+what is a hash function?
+
+Hash function: A hash function is a mathamatical function that takes in the input string and generates another alphanumeric string.
+
+
+Here is what a mathamtical hash function looks like...
+
+
+![image](https://github.com/user-attachments/assets/f792d945-1b31-4018-bf83-0e31dfb74d81)
 
 
 
 
+Here is the mathamaitcal formula for hash functions...
+
+
+Hash key % table size
+
+Example table
+
+6 % 4 = 2
+
+Table size = 4
+index = 3
+
+
+
+|------------|
+|  0 index   |   
+|------------|       
+|  1 index   |       
+|------------|
+|   2 index  | -> <6> is stored at index 2
+|------------|
+|  3 index   |     
+|------------|
 
 
 
