@@ -19,8 +19,9 @@ Topics being covered
 2. whats password hashing
 3. what is a hash function
 4. what are md5 hashes/sha56 hashes
-5. How to do a md5/sh56 sttack with hashcat
-6. Mitigation steps to protect yourself
+5. How to do a md5/sha1 sttack with hashcat
+6. what salting is
+7. summary
 
 
 ![image](https://github.com/user-attachments/assets/15d094a0-d7c5-462a-9e5e-fbe27db551fe)
@@ -70,6 +71,25 @@ Hash key % table size
 Example table
 
 ![image](https://github.com/user-attachments/assets/9a496983-0f6d-4913-889c-d7340dcfaaba)
+
+
+what is md5 hash/sh1 hashes?
+
+md5 hash: md5(message digest alogrithim) is a hash function that produces a 128-bit(16-byte) hash value.
+
+md5 hash: 42f749ade7f9e195bf475f37a44cafcb
+
+sha1 hash: sha1(secure hash algrithim) is a hash function that produces 160-bit(20-byte) hash values.
+
+sha1 hash: b2e98ad6f6eb8508dd6a14cfa704bad7f05f6fb1
+
+
+
+
+
+How to do a md5/sha1 sttack with hashcat
+
+
 
 
 
